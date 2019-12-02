@@ -40,6 +40,14 @@
   color: grey;
   font-style: none;
 }
+.big-text-area {
+  height: 15vh;
+}
+.btn-primary {
+  background-color: #8177a6;
+  border-color: #8177a6;
+  float: right;
+}
 
 /* for phones and tablets*/
 @media only screen and (max-width: 1000px) {
